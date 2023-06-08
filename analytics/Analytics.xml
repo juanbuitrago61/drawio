@@ -385,5 +385,11 @@
     "w": 512,
     "h": 513,
     "title": "onelake-icon"
+  },
+  {
+    "data": "https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png",
+    "w": 256,
+    "h": 256,
+    "title": "Fabric"
   }
 ]</mxlibrary>
